@@ -95,3 +95,4 @@ if __name__ == '__main__':
     client = Person(name="Carlos", last_name="Moreno",city="Bogotá", address="Carrera 17a #2-15")
 
     print(client)
+    print("Prueba")
